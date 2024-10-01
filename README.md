@@ -9,3 +9,14 @@
 
 ![image](https://github.com/user-attachments/assets/c4dee015-dea3-4276-973c-49fbb31900f9)
 
+Для данной задачи приспособленность вычисляется следующим образом:
+```python
+def oneMaxFitness(individual):
+    total_fitness = sum(
+        (MATRICES_CULTURES[individual[i]][i] / max(MATRICES_CULTURES[x][i] for x in range(COUNT_CULTURES))) /
+        (COSTS_CULTURES[individual[i]] / min(COSTS_CULTURES) if COSTS_CULTURES[individual[i]] > 0 else 1)
+        for i in range(COUNT_POLYGONS)
+    )
+    
+    return total_fitness / (COUNT_POLYGONS / 100),
+```
