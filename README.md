@@ -10,6 +10,7 @@
 ![image](https://github.com/user-attachments/assets/c4dee015-dea3-4276-973c-49fbb31900f9)
 
 Для данной задачt приспособленность вычисляется следующим образом:
+
 ```python
 def oneMaxFitness(individual):
     total_fitness = sum(
@@ -20,6 +21,7 @@ def oneMaxFitness(individual):
     
     return total_fitness / (COUNT_POLYGONS / 100),
 ```
+
 В результате получается приспособленность индивидуума, которая представляет собой среднее значение всех полей.
 
 *Самый лучший исход: Когда на каждом полигоне выбирается культура с максимальной урожайностью и минимальной стоимостью.*
