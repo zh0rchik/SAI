@@ -30,7 +30,9 @@ def oneMaxFitness(individual):
 
 Генерация характеристик происходит случайным образом, для представления их можно отобразить в виде цветной матрицы:
 
+
 ![image](https://github.com/user-attachments/assets/bae48b98-0cae-4451-bbbe-cde87e203525)
+
 
 ```python
 COUNT_CULTURES = 3
