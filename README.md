@@ -378,3 +378,4 @@ def implication(A, B):
 ---
 
 # <a id="title3"> Лабораторная работа №3. Базы знаний и онтологии </a>
+[Отчёт по лабораторной работе](https://github.com/zh0rchik/SAI/blob/master/lab3/%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%BB%D0%B0%D0%B13.docx)
