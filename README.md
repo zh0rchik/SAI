@@ -283,6 +283,9 @@ def mutSwap(mutant, indpb=0.01):
 
 ![image](https://github.com/user-attachments/assets/a89c9a89-d565-49f1-b862-e2cad1afca3b)
 
+![image](https://github.com/user-attachments/assets/e1e71e7a-4154-4a20-aeae-efe05bb8eaf9)
+
+
 #### Операция импликации
 Импликация двух нечетких множеств A и B реализуется с использованием операции минимума:
 
