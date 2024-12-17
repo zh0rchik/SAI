@@ -279,12 +279,12 @@ def mutSwap(mutant, indpb=0.01):
 
 Графически функция выглядит следующим образом:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8dafd5af-de3a-40d6-a746-6dffb64607bc)
 
 ##### Операция импликации
 Импликация двух нечетких множеств A и B реализуется с использованием операции минимума:
 
-<p style="text-align: center;">Импликация(A,B)=min(μA(x),μB(x))</p> 
+Импликация(A,B)=min(μA(x),μB(x))
 
 
 ### Вывод
