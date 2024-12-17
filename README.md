@@ -277,9 +277,11 @@ def mutSwap(mutant, indpb=0.01):
 
 Трапециевидная функция принадлежности определяется как:
 
+![image](https://github.com/user-attachments/assets/cc05dd8e-a371-4115-a717-9a926784eda3)
+
 Графически функция выглядит следующим образом:
 
-![image](https://github.com/user-attachments/assets/8dafd5af-de3a-40d6-a746-6dffb64607bc)
+
 
 ##### Операция импликации
 Импликация двух нечетких множеств A и B реализуется с использованием операции минимума:
